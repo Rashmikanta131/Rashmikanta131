@@ -99,7 +99,7 @@ Building scalable cloud infrastructure, automating deployments, and continuously
 
 ## 📫 Connect With Me
 
-📧 Email: rashmikanta131.com
+📧 Email: rashmikanta131@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/rashmikanta-panigrahi2000/
 
