@@ -1,110 +1,179 @@
 <h1 align="center">Hi 👋, I'm Rashmikanta Panigrahi</h1>
-<h3 align="center">AWS DevOps Engineer | Cloud & Automation Enthusiast ☁️</h3>
+
+<h3 align="center">
+AWS & DevOps Engineer | Cloud | Kubernetes | DevSecOps
+</h3>
 
 <p align="center">
-Building scalable cloud infrastructure, automating deployments, and continuously learning DevOps best practices.
+Passionate about building scalable cloud infrastructure, automating deployments, implementing DevSecOps practices, and managing cloud-native applications on AWS.
 </p>
 
 ---
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🔹 Aspiring AWS DevOps Engineer passionate about Cloud Computing and Automation
+🚀 AWS & DevOps Engineer with hands-on experience in Cloud Infrastructure, CI/CD Automation, Containerization, Kubernetes, and Infrastructure as Code.
 
-🔹 Hands-on experience with AWS, Kubernetes, Docker, Jenkins, Terraform, and Ansible
+🔹 Building production-grade AWS environments
 
-🔹 Interested in CI/CD, Infrastructure as Code (IaC), Containerization, and Monitoring
+🔹 Automating deployments using CI/CD pipelines
 
-🔹 Currently enhancing my skills in Cloud-Native technologies and Kubernetes ecosystem
+🔹 Deploying containerized applications on Kubernetes & EKS
+
+🔹 Implementing DevSecOps and GitOps practices
+
+🔹 Monitoring cloud infrastructure using Prometheus & Grafana
 
 ---
 
-## 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-### ☁️ Cloud & Containerization
+### ☁️ Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### ⚙️ DevOps & Automation
+---
+
+### 🚀 DevOps
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-### 🔍 Monitoring & Code Quality
+---
+
+### 🐳 Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
+
+---
+
+### 🔒 DevSecOps & Quality
+
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+---
+
+### 📊 Monitoring
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-### 💻 Version Control & OS
+---
 
+### 💻 OS & Version Control
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📂 Featured DevOps Projects
+# 🚀 Featured Projects
 
-### 🚀 CI/CD Pipeline using Jenkins
-- Automated build, test, and deployment workflows.
-- Integrated Maven, SonarQube, Docker, and Kubernetes.
+## ☁️ AWS 3-Tier Architecture
 
-### ☸️ Kubernetes Deployment
-- Managed Deployments, Services, Ingress, ConfigMaps, Secrets, HPA, and RBAC.
+✔ Multi-AZ Architecture
 
-### 🏗️ Infrastructure as Code
-- Provisioned cloud infrastructure using Terraform.
-- Automated configuration management using Ansible.
+✔ Application Load Balancer
 
-### 📊 Monitoring Stack
-- Implemented Prometheus and Grafana for Kubernetes cluster monitoring.
+✔ Auto Scaling
 
-### ☁️ AWS EKS Deployment
-- Deployed containerized applications on Amazon EKS.
-- Configured scalable and highly available workloads.
+✔ Bastion Host
+
+✔ NAT Gateway
+
+✔ Highly Available & Secure Infrastructure
 
 ---
 
-## 📈 GitHub Stats
+## 🔒 DevSecOps CI/CD Pipeline
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rashmikanta131&show_icons=true)
+✔ Jenkins Pipeline
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rashmikanta131)
+✔ Maven Build
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmikanta131&layout=compact)
+✔ SonarQube Analysis
 
----
+✔ OWASP Dependency Check
 
-## 🎯 Current Focus
+✔ Docker Build & Scan
 
-✔ AWS Cloud
+✔ Trivy Security Scan
 
-✔ Kubernetes & EKS
+✔ Kubernetes Deployment
 
-✔ CI/CD Pipelines
+✔ ArgoCD GitOps Delivery
 
-✔ Infrastructure Automation
-
-✔ Monitoring & Observability
-
-✔ DevOps Best Practices
+✔ Amazon EKS
 
 ---
 
-## 📫 Connect With Me
+## ⚡ Serverless AWS Application
 
-📧 Email: rashmikanta131@gmail.com
+✔ API Gateway
+
+✔ AWS Lambda
+
+✔ DynamoDB
+
+✔ IAM Security
+
+✔ Event Driven Architecture
+
+✔ Cost Optimized Infrastructure
+
+---
+
+# 🎯 Core Competencies
+
+✅ Cloud Infrastructure
+
+✅ CI/CD Automation
+
+✅ Infrastructure as Code
+
+✅ Kubernetes Administration
+
+✅ DevSecOps
+
+✅ GitOps
+
+✅ Monitoring & Observability
+
+✅ Linux Administration
+
+---
+
+# 📜 Certifications & Training
+
+🏆 AWS & DevOps Professional Training – Naresh IT
+
+🏆 Terraform Infrastructure Automation
+
+🏆 Docker & Kubernetes Administration
+
+🏆 CI/CD Pipeline Automation
+
+🏆 AWS Cloud Services
+
+---
+
+# 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/rashmikanta-panigrahi2000/
 
-🌐 GitHub: https://github.com/Rashmikanta131
+📧 Email: rashmikanta131@gmail.com
+
+🐙 GitHub: https://github.com/Rashmikanta131
 
 ---
 
-<h3 align="center">🚀 Learning • Building • Automating • Scaling 🚀</h3>
+<h3 align="center">
+🚀 Cloud | DevOps | DevSecOps | Kubernetes | Automation 🚀
+</h3>
